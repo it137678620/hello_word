@@ -13,6 +13,8 @@ public class demo01 {
         System.out.println(666);
         System.out.println(666);
         System.out.println(777);
+        System.out.println(1111111);
+        System.out.println(4442222);
         System.out.println(888);
     }
 }
